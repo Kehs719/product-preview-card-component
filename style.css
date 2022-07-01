@@ -106,16 +106,7 @@ button:hover{
 }
 button img{
     margin-right: 10px;
-}
-.attribution { 
-    position: fixed;
-    bottom:1rem;
-    font-size: 11px; 
-    text-align: center; 
-}
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
-}
+} 
 @media (max-width:620px) {
     .container{
         flex-direction: column;
